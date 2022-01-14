@@ -1,0 +1,16 @@
+C:\Git\projetos\elevador\elevador\bin\Debug\net5.0\elevador.exe
+C:\Git\projetos\elevador\elevador\bin\Debug\net5.0\elevador.deps.json
+C:\Git\projetos\elevador\elevador\bin\Debug\net5.0\elevador.runtimeconfig.json
+C:\Git\projetos\elevador\elevador\bin\Debug\net5.0\elevador.runtimeconfig.dev.json
+C:\Git\projetos\elevador\elevador\bin\Debug\net5.0\elevador.dll
+C:\Git\projetos\elevador\elevador\bin\Debug\net5.0\ref\elevador.dll
+C:\Git\projetos\elevador\elevador\bin\Debug\net5.0\elevador.pdb
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\elevador.csproj.AssemblyReference.cache
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\elevador.AssemblyInfoInputs.cache
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\elevador.AssemblyInfo.cs
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\elevador.csproj.CoreCompileInputs.cache
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\elevador.dll
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\ref\elevador.dll
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\elevador.pdb
+C:\Git\projetos\elevador\elevador\obj\Debug\net5.0\elevador.genruntimeconfig.cache
